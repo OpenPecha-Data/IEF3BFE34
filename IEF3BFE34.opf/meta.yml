@@ -1,0 +1,39 @@
+id: IEF3BFE34
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T00:23:39.070063'
+last_modified: '2022-06-19T00:23:39.070080'
+parser: null
+source_metadata:
+  title: 'The gSan yig of Jam mgon A mes zhabs (1597-1659), part IV: teachings from
+    Nam mkha dpal bzang (1535-1602)'
+  author: a myes zhabs ngag dbang kun dga bsod nams/
+  description: 'Digital version 2.0 {Wylie}; WYLIE COPY of master xml (completed:
+    2015-07-05); converted from external file, unrevised, no thematic TEI markup'
+  file_info:
+  - 'Language: Wylie'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - 'Digital edition:Sakya Research Centre; This text was initially inputted by Lama
+    Guru, Sachen International (Digital Text version/id: AMAI009.doc). (src)'
+  - Text input:Lama Guru (lg)
+  - Editorial process:Mathias Fermer (mf), Samdrub
+  - TEI Encoding:Sakya Research Centre
+  - TEI Markup:-
+  - Revisions/Corrections:Samdrub
+  text_witnesses: https://sakyaresearch.org/sources/602
+  bases:
+    8ada:
+      title: 'The gSan yig of Jam mgon A mes zhabs (1597-1659), part IV: teachings
+        from Nam mkha dpal bzang (1535-1602)'
+      order: 1
+      base_file: 8ada.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
